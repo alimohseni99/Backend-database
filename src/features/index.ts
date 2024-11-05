@@ -1,1 +1,1 @@
-export * from "./Rocket-league-cars";
+export * from "./rocket-league-cars";
